@@ -4,21 +4,23 @@ import './Navbar.css';
 
 function Navbar() {
   return (
-    <nav className="navbar">
-      <div className="navbar-left">
-        <span className="navbar-brand">Tu Nombre</span>
-      </div>
-      <div className="navbar-right">
-        <ul className="navbar-list">
-          <li><a href="#acerca">Acerca de Mí</a></li>
-          <li><a href="#conocimientos">Conocimientos</a></li>
-          <li><a href="#experiencia">Experiencia</a></li>
-          <li><a href="#educacion">Educación</a></li>
-          <li><a href="#certificaciones">Certificaciones</a></li>
-          <li><a href="#contacto">Contacto</a></li>
-        </ul>
-      </div>
-    </nav>
+    <header class="">
+      <nav class="navbar" id="header-nav" role="navigation">
+        <div class="container">
+          <a class="navbar-brand titulo" href="#">Ivan y Pala</a>
+          <div class="" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+              <li class="nav-item"><a class="nav-link" href="#about">Acerca de Mí</a></li>
+              <li class="nav-item"><a class="nav-link" href="#services">Conocimientos</a></li>
+              <li class="nav-item"><a class="nav-link" href="#experience">Experiencia</a></li>
+              <li class="nav-item"><a class="nav-link" href="#education">Educación</a></li>
+              <li class="nav-item"><a class="nav-link" href="#certifications">Certificaciones</a></li>
+              <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
   );
 }
 

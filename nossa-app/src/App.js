@@ -4,11 +4,10 @@ import Navbar from './Navbar';
 
 function App() {
   return (
-    <div>
-      <Navbar />
-      {/* Aquí colocarías el resto de tu aplicación */}
-    </div>
-    
+      <div>
+        <Navbar />
+        {/* Aquí colocarías el resto de tu aplicación */}
+      </div>
   );
 }
 
