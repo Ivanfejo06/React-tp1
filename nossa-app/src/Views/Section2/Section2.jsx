@@ -1,3 +1,5 @@
+import "./Section2.css"
+
 const Section2 = () =>
 {
   return(

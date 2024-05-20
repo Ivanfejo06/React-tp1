@@ -1,0 +1,34 @@
+.cardd {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 2px solid #f4f6f8;
+    border-radius: 10px;
+}
+
+.cardd-body {
+    flex: 1 1 auto;
+    padding: 2rem 2rem;
+}
+
+.text-small {
+    font-size: 0.875rem;
+}
+.text-muted {
+    color: #6c757d !important;
+}
+
+.h5, h5 {
+    font-size: 1.25rem;
+}
+
+.cardd-header {
+    padding: 1rem 2rem;
+    margin-bottom: 0;
+    background-color: #f4f6f8;
+    border-bottom: 2px solid #f4f6f8;
+}

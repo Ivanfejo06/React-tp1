@@ -10,7 +10,7 @@
 }
 
 .intro-title {
-    font-weight: 800;
+    font-weight: 700;
 }
 
 .wave-bg{
@@ -24,4 +24,26 @@
     background-image: url(https://ezebinker.github.io/images/wave-bg.svg);
     background-position: center;
     background-repeat: no-repeat;
-  }
+}
+
+.bg{
+    background-color: #f4f6f8 !important;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.social-nav .nav-link {
+    padding: 0 0.5rem;
+    font-size: 1.1rem;
+    line-height: 2.5rem;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
