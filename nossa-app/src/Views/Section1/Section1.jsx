@@ -12,9 +12,8 @@ const Section1 = () =>
             <div class="col-lg-6">
               <div class="mt-5">
                 <p class="lead text-uppercase mb-1">Hola!</p>
-                <h1 class="intro-title marker aos-init aos-animate" data-aos="fade-left" data-aos-delay="50">Soy Ezequiel Binker</h1>
-                <p class="lead fw-normal mt-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">Licenciado en Sistemas y
-                  Profesor de Programación</p>
+                <h1 class="intro-title marker aos-init aos-animate" data-aos="fade-left" data-aos-delay="50">Soy Ivan Joaquin</h1>
+                <p class="lead fw-normal mt-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">Estudiante en Sistemas y Programación</p>
                 <div class="social-nav aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                   <nav role="navigation">
                     <ul class="nav justify-content-left">
