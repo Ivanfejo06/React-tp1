@@ -1,0 +1,30 @@
+.btnn {
+    font-size: .9375rem;
+}
+.mt-2 {
+    margin-top: 1rem !important;
+}
+
+.btnn-primary {
+    color: #000;
+    background-color: #f6e05e;
+    border-color: #f6e05e;
+}
+.btnn {
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1.6;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: .6rem 2.25rem;
+    font-size: 1rem;
+    border-radius: 3rem;
+    transition: all .18s ease-in-out;
+}

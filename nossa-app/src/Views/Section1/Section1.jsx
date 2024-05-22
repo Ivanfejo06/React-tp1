@@ -18,12 +18,11 @@ const Section1 = () =>
                   <nav role="navigation">
                     <ul class="nav justify-content-left">
                       <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.linkedin.com/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">LinkedIn</span></a></li>
-                      <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.github.com/ezebinker" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">GitHub</span></a></li>
-                      <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.behance.net/ezequielbinker" title="Behance"><i class="fab fa-behance"></i><span class="menu-title sr-only">Behance</span></a></li>
+                      <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.github.com/ivanfejo06" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">GitHub</span></a></li>
                     </ul>
                   </nav>
                 </div>
-                <div class="mt-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200"><a class="btn btn-primary shadow-sm mt-1 hover-effect" href="#contact">Contactame! <i class="fas fa-arrow-right"></i></a></div>
+                <div class="mt-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200"><a class="btnn btnn-primary shadow-sm mt-1 hover-effect" href="#contact">Contactame! <i class="fas fa-arrow-right"></i></a></div>
               </div>
             </div>
           </div>

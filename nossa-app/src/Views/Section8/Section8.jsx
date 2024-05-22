@@ -24,7 +24,7 @@ const Section8 = () =>
                     <label for="mensaje" class="form-label fw-bolder">Mensaje</label>
                     <textarea class="form-control" id="mensaje" name="mensaje" rows="4" required=""></textarea>
                   </div>
-                  <button class="btn btn-primary mt-2" type="submit">Enviar</button>
+                  <button class="btnn btnn-primary mt-2" type="submit">Enviar</button>
                 </form>
               </div>
             </div>

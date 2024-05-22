@@ -12,8 +12,7 @@ const Footer = () =>
               <nav role="navigation">
                 <ul class="nav justify-content-center">
                   <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.linkedin.com/in/ezequielbinker/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">LinkedIn</span></a></li>
-                  <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.github.com/ezebinker" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">LinkedIn</span></a></li>
-                  <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.behance.net/ezequielbinker" title="Behance"><i class="fab fa-behance"></i><span class="menu-title sr-only">Behance</span></a></li>
+                  <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.github.com/ivanfejo06" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">GitHub</span></a></li>
                 </ul>
               </nav>
             </div>
